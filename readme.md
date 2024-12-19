@@ -41,20 +41,28 @@ The project **AKGECConnect** is a mobile application developed using **Java** wi
 ---
 
 ## Screenshots
-| **Dashboard** | **Verify Number** | **Verify OTP** |
-|:-------------:|:-----------------:|:--------------:|
-| ![Dashboard](https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/iw07s0s9mmvip0s0gpgx.png) | ![Verify Number](https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/vow4a3kazfvd5o4k49nn.png) | ![Verify OTP](https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/sk6jy3zgaumu92luo3qr.png) |
-
-| **Profile Setup** | **Upload Notes** | **View Notes** |
-|:-----------------:|:----------------:|:--------------:|
-| ![Profile Setup](https://res.cloudinary.com/dlmki3zha/image/upload/v1734463593/AKGECConnect/nckft2gdccqbjdinanie.png) | ![Upload Notes](https://res.cloudinary.com/dlmki3zha/image/upload/v1734463593/AKGECConnect/qicjb0b2ym4lmrxwvnfe.png) | ![View Notes](https://res.cloudinary.com/dlmki3zha/image/upload/v1734463593/AKGECConnect/kf9udt3xnyeylgkypzfx.png) |
-
-| **Entertainment** | **Time Table** | **Feedback** |
-|:-----------------:|:--------------:|:------------:|
-| ![Entertainment](https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/xzfskimhkopwcgcmcgjh.png) | ![Time Table](https://res.cloudinary.com/dlmki3zha/image/upload/v1734463593/AKGECConnect/hsdbcjhsdvbj.png) | ![Feedback](https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/odaksyqszddijwd5mnsj.png) |
-
-| **College Info** |
-|:----------------:|
-| ![College Info](https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/fc4gop3ra3fifw5uovlg.png) |
+<table>
+  <tr>
+    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/iw07s0s9mmvip0s0gpgx.png" alt="Dashboard" width="150px" height="150px"/></td>
+    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/vow4a3kazfvd5o4k49nn.png" alt="Verify Number" width="150px" height="150px"/></td>
+    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/sk6jy3zgaumu92luo3qr.png" alt="Verify OTP" width="150px" height="150px"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463593/AKGECConnect/nckft2gdccqbjdinanie.png" alt="Profile Setup" width="150px" height="150px"/></td>
+    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463593/AKGECConnect/qicjb0b2ym4lmrxwvnfe.png" alt="Upload Notes" width="150px" height="150px"/></td>
+    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463593/AKGECConnect/kf9udt3xnyeylgkypzfx.png" alt="View Notes" width="150px" height="150px"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/xzfskimhkopwcgcmcgjh.png" alt="Entertainment" width="150px" height="150px"/></td>
+    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463593/AKGECConnect/hsdbcjhsdvbj.png" alt="Time Table" width="150px" height="150px"/></td>
+    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/odaksyqszddijwd5mnsj.png" alt="Feedback" width="150px" height="150px"/></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/fc4gop3ra3fifw5uovlg.png" alt="College Info" width="150px" height="150px"/></td>
+  </tr>
+</table>
 
 ---
+
+## Conclusion
+The **AKGECConnect** application is a robust and scalable solution aimed at improving the lives of students and faculty members by combining academics, communication, and entertainment into a single platform. Its secure backend, modular design, and comprehensive feature set make it a valuable tool for modern educational institutions.
