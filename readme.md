@@ -1,4 +1,3 @@
-
 # AKGECConnect
 
 ## Overview
@@ -38,3 +37,24 @@ The project **AKGECConnect** is a mobile application developed using **Java** wi
     - Add the `google-services.json` file to the project.
 3. **Run the Application**:
     - Build and run the application on an Android device or emulator.
+
+---
+
+## Screenshots
+| **Dashboard** | **Verify Number** | **Verify OTP** |
+|:-------------:|:-----------------:|:--------------:|
+| ![Dashboard](https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/iw07s0s9mmvip0s0gpgx.png) | ![Verify Number](https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/vow4a3kazfvd5o4k49nn.png) | ![Verify OTP](https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/sk6jy3zgaumu92luo3qr.png) |
+
+| **Profile Setup** | **Upload Notes** | **View Notes** |
+|:-----------------:|:----------------:|:--------------:|
+| ![Profile Setup](https://res.cloudinary.com/dlmki3zha/image/upload/v1734463593/AKGECConnect/nckft2gdccqbjdinanie.png) | ![Upload Notes](https://res.cloudinary.com/dlmki3zha/image/upload/v1734463593/AKGECConnect/qicjb0b2ym4lmrxwvnfe.png) | ![View Notes](https://res.cloudinary.com/dlmki3zha/image/upload/v1734463593/AKGECConnect/kf9udt3xnyeylgkypzfx.png) |
+
+| **Entertainment** | **Time Table** | **Feedback** |
+|:-----------------:|:--------------:|:------------:|
+| ![Entertainment](https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/xzfskimhkopwcgcmcgjh.png) | ![Time Table](https://res.cloudinary.com/dlmki3zha/image/upload/v1734463593/AKGECConnect/hsdbcjhsdvbj.png) | ![Feedback](https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/odaksyqszddijwd5mnsj.png) |
+
+| **College Info** |
+|:----------------:|
+| ![College Info](https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/fc4gop3ra3fifw5uovlg.png) |
+
+---
