@@ -43,26 +43,24 @@ The project **AKGECConnect** is a mobile application developed using **Java** wi
 ## Screenshots
 <table>
   <tr>
-    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/iw07s0s9mmvip0s0gpgx.png" alt="Dashboard" width="250px" height="350px"/></td>
-    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/vow4a3kazfvd5o4k49nn.png" alt="Verify Number" width="250px" height="350px"/></td>
-    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/sk6jy3zgaumu92luo3qr.png" alt="Verify OTP" width="250px" height="350px"/></td>
+    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/iw07s0s9mmvip0s0gpgx.png" alt="Dashboard" width="200px" height="350px"/></td>
+    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/vow4a3kazfvd5o4k49nn.png" alt="Verify Number" width="200px" height="350px"/></td>
+    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/sk6jy3zgaumu92luo3qr.png" alt="Verify OTP" width="200px" height="350px"/></td>
   </tr>
   <tr>
-    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463593/AKGECConnect/nckft2gdccqbjdinanie.png" alt="Profile Setup" width="250px" height="350px"/></td>
-    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463593/AKGECConnect/qicjb0b2ym4lmrxwvnfe.png" alt="Upload Notes" width="250px" height="350px"/></td>
-    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463593/AKGECConnect/kf9udt3xnyeylgkypzfx.png" alt="View Notes" width="250px" height="350px"/></td>
+    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463593/AKGECConnect/nckft2gdccqbjdinanie.png" alt="Profile Setup" width="200px" height="350px"/></td>
+    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463593/AKGECConnect/qicjb0b2ym4lmrxwvnfe.png" alt="Upload Notes" width="200px" height="350px"/></td>
+    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463593/AKGECConnect/kf9udt3xnyeylgkypzfx.png" alt="View Notes" width="200px" height="350px"/></td>
   </tr>
   <tr>
-    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/xzfskimhkopwcgcmcgjh.png" alt="Entertainment" width="250px" height="350px"/></td>
-    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463593/AKGECConnect/hsdbcjhsdvbj.png" alt="Time Table" width="250px" height="350px"/></td>
-    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/odaksyqszddijwd5mnsj.png" alt="Feedback" width="250px" height="350px"/></td>
+    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/xzfskimhkopwcgcmcgjh.png" alt="Entertainment" width="200px" height="350px"/></td>
+    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463593/AKGECConnect/hsdbcjhsdvbj.png" alt="Time Table" width="200px" height="350px"/></td>
+    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/odaksyqszddijwd5mnsj.png" alt="Feedback" width="200px" height="350px"/></td>
   </tr>
   <tr>
-    <td colspan="3" align="center"><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/fc4gop3ra3fifw5uovlg.png" alt="College Info" width="250px" height="350px"/></td>
+    <td colspan="3" align="center"><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/fc4gop3ra3fifw5uovlg.png" alt="College Info" width="200px" height="350px"/></td>
   </tr>
 </table>
 
 ---
 
-## Conclusion
-The **AKGECConnect** application is a robust and scalable solution aimed at improving the lives of students and faculty members by combining academics, communication, and entertainment into a single platform. Its secure backend, modular design, and comprehensive feature set make it a valuable tool for modern educational institutions.
