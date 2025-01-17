@@ -44,8 +44,8 @@ The project **AKGECConnect** is a mobile application developed using **Java** wi
 <table>
   <tr>
     <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/iw07s0s9mmvip0s0gpgx.png" alt="Dashboard" width="200px" height="350px"/></td>
-<!--     <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/vow4a3kazfvd5o4k49nn.png" alt="Verify Number" width="200px" height="350px"/></td> -->
-    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/sk6jy3zgaumu92luo3qr.png" alt="Verify OTP" width="200px" height="350px"/></td>
+    <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/vow4a3kazfvd5o4k49nn.png" alt="Verify Number" width="200px" height="350px"/></td>
+<!--     <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463592/AKGECConnect/sk6jy3zgaumu92luo3qr.png" alt="Verify OTP" width="200px" height="350px"/></td> -->
   </tr>
   <tr>
     <td><img src="https://res.cloudinary.com/dlmki3zha/image/upload/v1734463593/AKGECConnect/nckft2gdccqbjdinanie.png" alt="Profile Setup" width="200px" height="350px"/></td>
